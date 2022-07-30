@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Deepak Singh Negi.
-Currently working as a Associate Analyst at [Tech Mahindra](https://www.wipro.com/).
+Currently working as a Data Analyst at [Tech Mahindra](https://www.wipro.com/).
 
 <!--- Socials:
 
